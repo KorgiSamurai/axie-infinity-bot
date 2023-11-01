@@ -18,7 +18,6 @@
   </a>
   <br>
   <br>
-  <img alt="Twitter: axieinfinity" src="https://coinquora.com/wp-content/uploads/2022/04/Axie-Tech-Joins-Axie-Infinity-Announces-Origins-All-New-Arena-Mode.jpg" target="_blank" />
 </p>
 
 ### About
